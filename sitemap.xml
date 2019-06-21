@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://powergears.github.io/</loc>
+    <lastmod>2019-06-19T00:00:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://powergears.github.io/praktikum/</loc>
+    <lastmod>2019-06-19T00:00:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://powergears.github.io/praktikum/2019-06-09-tagesbericht/</loc>
+    <lastmod>2019-06-19T00:00:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://powergears.github.io/praktikum/2019-06-12-ottoausbildung/</loc>
+    <lastmod>2019-06-19T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://powergears.github.io/praktikum/2019-06-12-fotografieren/</loc>
+    <lastmod>2019-06-12T13:22:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://powergears.github.io/praktikum/2019-06-18-travis-ci/</loc>
+    <lastmod>2019-06-12T13:22:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://powergears.github.io/praktikum/2019-06-11-agiles-arbeiten/</loc>
+    <lastmod>2019-06-11T13:22:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://powergears.github.io/praktikum/2019-06-09-passwortmanager/</loc>
+    <lastmod>2019-06-09T13:22:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://powergears.github.io/python/</loc>
+    <lastmod>2019-06-09T13:22:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://powergears.github.io/python/komplezierte-hochz%C3%A4hlmaschine/</loc>
+    <lastmod>2019-06-09T13:22:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://powergears.github.io/python/komplezierte-hochz%C3%A4hlmaschine-nonplusultra/</loc>
+    <lastmod>2019-06-09T13:22:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://powergears.github.io/python/mutliplizierungs-maschine/</loc>
+    <lastmod>2019-06-09T13:22:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://powergears.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://powergears.github.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://powergears.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

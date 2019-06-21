@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Bens Blog</title>
+    <link>http://powergears.github.io/python/</link>
+    <description>Recent content in Python on Bens Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Jun 2019 13:22:40 +0200</lastBuildDate>
+    
+	<atom:link href="http://powergears.github.io/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Python Hochzähl-Maschine</title>
+      <link>http://powergears.github.io/python/komplezierte-hochz%C3%A4hlmaschine/</link>
+      <pubDate>Sun, 09 Jun 2019 13:22:40 +0200</pubDate>
+      
+      <guid>http://powergears.github.io/python/komplezierte-hochz%C3%A4hlmaschine/</guid>
+      <description>Die zweite Aufgabe die ich gemacht habe, war weitaus komplexer. die aufgabe war, ein Programm zu bauen,das alle zahlen von null bis zu eine vom nutzer gewählten zahl zu nehmen, und zu addieren, und hier ist meine lösung:
+summe=0 max = input(&amp;#34;please type in a number: &amp;#34;) for x in range(max+1): summe = x + summe print summe</description>
+    </item>
+    
+    <item>
+      <title>Python Hochzähl-Maschine NONPLUSULTRA</title>
+      <link>http://powergears.github.io/python/komplezierte-hochz%C3%A4hlmaschine-nonplusultra/</link>
+      <pubDate>Sun, 09 Jun 2019 13:22:40 +0200</pubDate>
+      
+      <guid>http://powergears.github.io/python/komplezierte-hochz%C3%A4hlmaschine-nonplusultra/</guid>
+      <description>Meine dritte Aufgabe baut im gewissen sinne auf der zweiten Aufgabe auf.den genau wie diese, musste ich ein Programm bauen das alle zahlen von eins bis einer vom Nutzer eingegebenen zahl nehmen. Aber dieses mal muss der Nutzer die Wahl dazwischen haben, ob er seine zahl addiert oder multipliziert haben will. Es war überraschend einfach, der schwerste Part war, der Additions-Part, den die variablen mit den ich gearbeitet habe hatten die ganze zeit One-off-Bugs.</description>
+    </item>
+    
+    <item>
+      <title>Python Multiplikation</title>
+      <link>http://powergears.github.io/python/mutliplizierungs-maschine/</link>
+      <pubDate>Sun, 09 Jun 2019 13:22:40 +0200</pubDate>
+      
+      <guid>http://powergears.github.io/python/mutliplizierungs-maschine/</guid>
+      <description>Das Multiplikationsprogramm Die Aufgabe selbst. Diese Aufgabe war die erste die ich gemacht habe. Sie lautete wie folgt: &amp;ldquo;Erstellen Sie ein Konsolenprogramm welches dem Benutzer auffordert 2 Zahlen einzugeben, diese sollen dann multipliziert werden.&amp;rdquo; die Aufgabe habe ich erfüllt, und bei Github hoch geladen. Hier ist der Link dafür: https://github.com/Powergears/Python-Repository/blob/master/erste-pythonchallenge.py .
+Problem Nummer Eins Mein größtes Problem bei dieser Aufgabe war es, mein noch relativ neues know-how, was kein wunder war, da ich erst an dem Tag angefangen hab Python zu programmieren.</description>
+    </item>
+    
+  </channel>
+</rss>

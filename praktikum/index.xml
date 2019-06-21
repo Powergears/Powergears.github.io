@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mein Praktikum on Bens Blog</title>
+    <link>http://powergears.github.io/praktikum/</link>
+    <description>Recent content in Mein Praktikum on Bens Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Jun 2019 00:00:40 +0200</lastBuildDate>
+    
+	<atom:link href="http://powergears.github.io/praktikum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tagesbericht</title>
+      <link>http://powergears.github.io/praktikum/2019-06-09-tagesbericht/</link>
+      <pubDate>Wed, 19 Jun 2019 00:00:40 +0200</pubDate>
+      
+      <guid>http://powergears.github.io/praktikum/2019-06-09-tagesbericht/</guid>
+      <description>Ich komme um ungefähr 8:30 im Büro an. meinen Tag starte ich damit, meinen Laptop aus der Schublade zu nehmen und den Computer vorzubereiten. wenn alles vorbereitet ist und ich bereit bin zu arbeiten, hole ich mir meinen morgen-Tee, der mir hilft schneller wach zu werden, und sehe mir an was ich gestern gemacht hab, und gehe zu meinem Planungsboard, und sehe mir an was Zutun ist. Ich starte schon mal mit der Arbeit, wohl wissend, das ich sie um 9:30 wieder kurz unterbrechen muss, um dem &amp;ldquo;Daily Standup&amp;rdquo; bei zu wohnen , bei dieser besprechen die Programmierer wer was an dem Tag machen soll.</description>
+    </item>
+    
+    <item>
+      <title>Otto Ausbildungsberuf</title>
+      <link>http://powergears.github.io/praktikum/2019-06-12-ottoausbildung/</link>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>http://powergears.github.io/praktikum/2019-06-12-ottoausbildung/</guid>
+      <description>Otto Ausbildungsberufe Otto setzt einen relativ starken Fokus auf seine Mitarbeiter, wenn auch nicht so viel wie für die Kunden. Otto versucht möglichst einschmeichelnd für potenzielle neue Mitarbeiter zu sein. das erreichen sie mit der Hilfe von Zusammenarbeit mit Festival Organisationen, oder mit vielen Möglichkeiten das innen leben von Otto zu entdecken. also macht es sinn möglichst viele Anstellung-möglichkeiten zu haben.
+so gibt es auch viele Ausbildungsberuf, wie zum Beispiel Fachinformatiker Anwendungsentwicklung.</description>
+    </item>
+    
+    <item>
+      <title>Fotografieren</title>
+      <link>http://powergears.github.io/praktikum/2019-06-12-fotografieren/</link>
+      <pubDate>Wed, 12 Jun 2019 13:22:40 +0200</pubDate>
+      
+      <guid>http://powergears.github.io/praktikum/2019-06-12-fotografieren/</guid>
+      <description>Fotografieren Licht eines der wichtigsten dinge beim Fotografieren ist eine gute licht quelle zu haben. diese licht muss auf mehrere Wege genutzt werden. unter anderem damit man überhaubt was sieht, aber auf um menschliche Makel zu verstecken. das Schönheitsideal der Menschen verlangt perfekte haut, haare und änliches zu haben, was allerdings unmöglich ist, da der Mensch von Natur aus Makel hat, wie Augenringe oder Pickel. eine lösung dafür wäre, sie mit schminke zu überdecken.</description>
+    </item>
+    
+    <item>
+      <title>Travis CI</title>
+      <link>http://powergears.github.io/praktikum/2019-06-18-travis-ci/</link>
+      <pubDate>Wed, 12 Jun 2019 13:22:40 +0200</pubDate>
+      
+      <guid>http://powergears.github.io/praktikum/2019-06-18-travis-ci/</guid>
+      <description>Travis ci ist ein Tool vielmehr als eine Programmiersprache, aber ein allgemein nützliches. Es ist vor allem dafür da, vorgänge zu automatisieren die ansonsten sehr oft wiederholt werden müssen.
+Wenn man sich etwas mit dem programmieren auskennt, wird die Bedienung mit travis ci relativ einfach. die Einrichtung des Tools ist noch einfacher. allerdings braucht es relativ lange travis ci zum Beispiel mit github zu synchronisieren.
+Die Bedienung ist, so wie es das Programm vorsieht, kaum existent.</description>
+    </item>
+    
+    <item>
+      <title>Agiles Programmieren</title>
+      <link>http://powergears.github.io/praktikum/2019-06-11-agiles-arbeiten/</link>
+      <pubDate>Tue, 11 Jun 2019 13:22:40 +0200</pubDate>
+      
+      <guid>http://powergears.github.io/praktikum/2019-06-11-agiles-arbeiten/</guid>
+      <description>Agile Softwareentwicklung agiles Programmieren ist eine relativ neue Methode, die auf einer verbesserungs-Philosophie basiert, was bedeutet, das die Programmierer nur kleine schritte machen, um im Notfall, wenn sie zu anderen Projekten wechseln müssen, immer noch etwas vorzuweisen hat. Obendrein ist das agile programmieren mehr auf das Team gerichtet als die sogenannte Wasserfall-Programmierweise.
+Die Wasserfall-Taktik Die Wasserfall-Programmierweise arbeitet hauptsächlich mit Hierachie, denn damals als das programmieren noch neu war, hatte man den Naheliegenden Einfall, das Websites bauen genauso ist wie, zum Beispiel, ein Haus zu bauen.</description>
+    </item>
+    
+    <item>
+      <title>Passwortmanager</title>
+      <link>http://powergears.github.io/praktikum/2019-06-09-passwortmanager/</link>
+      <pubDate>Sun, 09 Jun 2019 13:22:40 +0200</pubDate>
+      
+      <guid>http://powergears.github.io/praktikum/2019-06-09-passwortmanager/</guid>
+      <description>Passwortmanager mobile Welcher Passwortmanager ist für mich der beste? Das finden wir hier raus.
+Keepass Der erste Passwortmanager in der Diskussion ist KeePass, ein sehr beliebter Passwortmanager, der mit einer guten Leistung trotz Kostenlosigkeit besticht es gibt eine sehr gute Katalogisierung sowie einen guten Passwortgenerator, und ist allgemein einfach zu benutzen. Obendrein hat er einen lokalen speicher. Weniger gut ist, das man ein Generalpasswort braucht um rein zu kommen. Obendrein sieht es sehr alt aus.</description>
+    </item>
+    
+  </channel>
+</rss>

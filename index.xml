@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bens blog on Bens Blog</title>
+    <link>http://powergears.github.io/</link>
+    <description>Recent content in Bens blog on Bens Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Jun 2019 00:00:40 +0200</lastBuildDate>
+    
+	<atom:link href="http://powergears.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tagesbericht</title>
+      <link>http://powergears.github.io/praktikum/2019-06-09-tagesbericht/</link>
+      <pubDate>Wed, 19 Jun 2019 00:00:40 +0200</pubDate>
+      
+      <guid>http://powergears.github.io/praktikum/2019-06-09-tagesbericht/</guid>
+      <description>Ich komme um ungefähr 8:30 im Büro an. meinen Tag starte ich damit, meinen Laptop aus der Schublade zu nehmen und den Computer vorzubereiten. wenn alles vorbereitet ist und ich bereit bin zu arbeiten, hole ich mir meinen morgen-Tee, der mir hilft schneller wach zu werden, und sehe mir an was ich gestern gemacht hab, und gehe zu meinem Planungsboard, und sehe mir an was Zutun ist. Ich starte schon mal mit der Arbeit, wohl wissend, das ich sie um 9:30 wieder kurz unterbrechen muss, um dem &amp;ldquo;Daily Standup&amp;rdquo; bei zu wohnen , bei dieser besprechen die Programmierer wer was an dem Tag machen soll.</description>
+    </item>
+    
+    <item>
+      <title>Otto Ausbildungsberuf</title>
+      <link>http://powergears.github.io/praktikum/2019-06-12-ottoausbildung/</link>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>http://powergears.github.io/praktikum/2019-06-12-ottoausbildung/</guid>
+      <description>Otto Ausbildungsberufe Otto setzt einen relativ starken Fokus auf seine Mitarbeiter, wenn auch nicht so viel wie für die Kunden. Otto versucht möglichst einschmeichelnd für potenzielle neue Mitarbeiter zu sein. das erreichen sie mit der Hilfe von Zusammenarbeit mit Festival Organisationen, oder mit vielen Möglichkeiten das innen leben von Otto zu entdecken. also macht es sinn möglichst viele Anstellung-möglichkeiten zu haben.
+so gibt es auch viele Ausbildungsberuf, wie zum Beispiel Fachinformatiker Anwendungsentwicklung.</description>
+    </item>
+    
+    <item>
+      <title>Fotografieren</title>
+      <link>http://powergears.github.io/praktikum/2019-06-12-fotografieren/</link>
+      <pubDate>Wed, 12 Jun 2019 13:22:40 +0200</pubDate>
+      
+      <guid>http://powergears.github.io/praktikum/2019-06-12-fotografieren/</guid>
+      <description>Fotografieren Licht eines der wichtigsten dinge beim Fotografieren ist eine gute licht quelle zu haben. diese licht muss auf mehrere Wege genutzt werden. unter anderem damit man überhaubt was sieht, aber auf um menschliche Makel zu verstecken. das Schönheitsideal der Menschen verlangt perfekte haut, haare und änliches zu haben, was allerdings unmöglich ist, da der Mensch von Natur aus Makel hat, wie Augenringe oder Pickel. eine lösung dafür wäre, sie mit schminke zu überdecken.</description>
+    </item>
+    
+    <item>
+      <title>Travis CI</title>
+      <link>http://powergears.github.io/praktikum/2019-06-18-travis-ci/</link>
+      <pubDate>Wed, 12 Jun 2019 13:22:40 +0200</pubDate>
+      
+      <guid>http://powergears.github.io/praktikum/2019-06-18-travis-ci/</guid>
+      <description>Travis ci ist ein Tool vielmehr als eine Programmiersprache, aber ein allgemein nützliches. Es ist vor allem dafür da, vorgänge zu automatisieren die ansonsten sehr oft wiederholt werden müssen.
+Wenn man sich etwas mit dem programmieren auskennt, wird die Bedienung mit travis ci relativ einfach. die Einrichtung des Tools ist noch einfacher. allerdings braucht es relativ lange travis ci zum Beispiel mit github zu synchronisieren.
+Die Bedienung ist, so wie es das Programm vorsieht, kaum existent.</description>
+    </item>
+    
+    <item>
+      <title>Agiles Programmieren</title>
+      <link>http://powergears.github.io/praktikum/2019-06-11-agiles-arbeiten/</link>
+      <pubDate>Tue, 11 Jun 2019 13:22:40 +0200</pubDate>
+      
+      <guid>http://powergears.github.io/praktikum/2019-06-11-agiles-arbeiten/</guid>
+      <description>Agile Softwareentwicklung agiles Programmieren ist eine relativ neue Methode, die auf einer verbesserungs-Philosophie basiert, was bedeutet, das die Programmierer nur kleine schritte machen, um im Notfall, wenn sie zu anderen Projekten wechseln müssen, immer noch etwas vorzuweisen hat. Obendrein ist das agile programmieren mehr auf das Team gerichtet als die sogenannte Wasserfall-Programmierweise.
+Die Wasserfall-Taktik Die Wasserfall-Programmierweise arbeitet hauptsächlich mit Hierachie, denn damals als das programmieren noch neu war, hatte man den Naheliegenden Einfall, das Websites bauen genauso ist wie, zum Beispiel, ein Haus zu bauen.</description>
+    </item>
+    
+    <item>
+      <title>Passwortmanager</title>
+      <link>http://powergears.github.io/praktikum/2019-06-09-passwortmanager/</link>
+      <pubDate>Sun, 09 Jun 2019 13:22:40 +0200</pubDate>
+      
+      <guid>http://powergears.github.io/praktikum/2019-06-09-passwortmanager/</guid>
+      <description>Passwortmanager mobile Welcher Passwortmanager ist für mich der beste? Das finden wir hier raus.
+Keepass Der erste Passwortmanager in der Diskussion ist KeePass, ein sehr beliebter Passwortmanager, der mit einer guten Leistung trotz Kostenlosigkeit besticht es gibt eine sehr gute Katalogisierung sowie einen guten Passwortgenerator, und ist allgemein einfach zu benutzen. Obendrein hat er einen lokalen speicher. Weniger gut ist, das man ein Generalpasswort braucht um rein zu kommen. Obendrein sieht es sehr alt aus.</description>
+    </item>
+    
+    <item>
+      <title>Python Hochzähl-Maschine</title>
+      <link>http://powergears.github.io/python/komplezierte-hochz%C3%A4hlmaschine/</link>
+      <pubDate>Sun, 09 Jun 2019 13:22:40 +0200</pubDate>
+      
+      <guid>http://powergears.github.io/python/komplezierte-hochz%C3%A4hlmaschine/</guid>
+      <description>Die zweite Aufgabe die ich gemacht habe, war weitaus komplexer. die aufgabe war, ein Programm zu bauen,das alle zahlen von null bis zu eine vom nutzer gewählten zahl zu nehmen, und zu addieren, und hier ist meine lösung:
+summe=0 max = input(&amp;#34;please type in a number: &amp;#34;) for x in range(max+1): summe = x + summe print summe</description>
+    </item>
+    
+    <item>
+      <title>Python Hochzähl-Maschine NONPLUSULTRA</title>
+      <link>http://powergears.github.io/python/komplezierte-hochz%C3%A4hlmaschine-nonplusultra/</link>
+      <pubDate>Sun, 09 Jun 2019 13:22:40 +0200</pubDate>
+      
+      <guid>http://powergears.github.io/python/komplezierte-hochz%C3%A4hlmaschine-nonplusultra/</guid>
+      <description>Meine dritte Aufgabe baut im gewissen sinne auf der zweiten Aufgabe auf.den genau wie diese, musste ich ein Programm bauen das alle zahlen von eins bis einer vom Nutzer eingegebenen zahl nehmen. Aber dieses mal muss der Nutzer die Wahl dazwischen haben, ob er seine zahl addiert oder multipliziert haben will. Es war überraschend einfach, der schwerste Part war, der Additions-Part, den die variablen mit den ich gearbeitet habe hatten die ganze zeit One-off-Bugs.</description>
+    </item>
+    
+    <item>
+      <title>Python Multiplikation</title>
+      <link>http://powergears.github.io/python/mutliplizierungs-maschine/</link>
+      <pubDate>Sun, 09 Jun 2019 13:22:40 +0200</pubDate>
+      
+      <guid>http://powergears.github.io/python/mutliplizierungs-maschine/</guid>
+      <description>Das Multiplikationsprogramm Die Aufgabe selbst. Diese Aufgabe war die erste die ich gemacht habe. Sie lautete wie folgt: &amp;ldquo;Erstellen Sie ein Konsolenprogramm welches dem Benutzer auffordert 2 Zahlen einzugeben, diese sollen dann multipliziert werden.&amp;rdquo; die Aufgabe habe ich erfüllt, und bei Github hoch geladen. Hier ist der Link dafür: https://github.com/Powergears/Python-Repository/blob/master/erste-pythonchallenge.py .
+Problem Nummer Eins Mein größtes Problem bei dieser Aufgabe war es, mein noch relativ neues know-how, was kein wunder war, da ich erst an dem Tag angefangen hab Python zu programmieren.</description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>http://powergears.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://powergears.github.io/contact/</guid>
+      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
+Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+  </channel>
+</rss>
